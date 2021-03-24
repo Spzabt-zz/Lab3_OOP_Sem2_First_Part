@@ -88,5 +88,12 @@
     <ItemGroup>
         <None Include="App.config" />
     </ItemGroup>
+    <ItemGroup>
+      <Content Include="Resources\NewFile1.bmp" />
+      <Content Include="Resources\NewFile11.bmp" />
+      <Content Include="Resources\TexturesCom_Aerials0093_1_S.png" />
+      <Content Include="Resources\TexturesCom_BrickLargeBlocks0034_S.jpg" />
+      <Content Include="Resources\TexturesCom_Flames0036_1_S.png" />
+    </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
