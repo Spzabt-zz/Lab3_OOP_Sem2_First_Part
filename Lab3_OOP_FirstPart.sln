@@ -10,7 +10,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinLinkLabel", "WinLinkLabe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistrationForm", "RegistrationForm\RegistrationForm.csproj", "{9351C18B-A166-438B-9DB4-15E6192613D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3_MDI_Application", "..\Lab1_OOP_Sem2-54f6ad133d5bcc911582a42e9ec30d4a6875b912\ExampleTasks\Ex3_MDI_Application\Ex3_MDI_Application.csproj", "{48EF212B-0488-4AAE-B424-C688E35D7484}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3_MDI_Application", "Ex3_MDI_Application\Ex3_MDI_Application.csproj", "{48EF212B-0488-4AAE-B424-C688E35D7484}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
